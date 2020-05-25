@@ -29,25 +29,25 @@ Change (passwd="root") to (user= "Your_MySQL_password").
  
  ### git clone -- recursive https://github.com/Nachiket724/Hotel-Managment-System.git
   
-  After Downloading 
+After Downloading 
   
-  1.Open Project Folder.
+1.Open Project Folder.
  
-  2.Open CMD of that directory.
+2.Open CMD of that directory.
   
-  3. Then Type command python menu.py. (Customer will use this application.)
+3. Then Type command python menu.py. (Customer will use this application.)
   
-  4. Open one more CMD of that directory.
+4. Open one more CMD of that directory.
   
-  5. Then Type command python hotel.py (Hotel staff will use this application.)
+5. Then Type command python hotel.py (Hotel staff will use this application.)
   
-  6. Then customer must log in into the application by reserving the table.
+6. Then customer must log in into the application by reserving the table.
   
-  7. He/she can order the food by using this application.
+7. He/she can order the food by using this application.
   
-  8. After doing all the stuffs, e-bill is generated.
+8. After doing all the stuffs, e-bill is generated.
   
-  9. Simultaneously whatever the customer order's will automatically be shown in the CMD of Hotel Staff Computer.
+9. Simultaneously whatever the customer order's will automatically be shown in the CMD of Hotel Staff Computer.
   
   
   
