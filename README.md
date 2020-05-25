@@ -41,13 +41,13 @@ Change (passwd="root") to (user= "Your_MySQL_password").
   
   5. Then Type command python hotel.py (Hotel staff will use this application.)
   
-  5. Then customer must log in into the application by reserving the table.
+  6. Then customer must log in into the application by reserving the table.
   
-  6.He/she can order the food by using this application.
+  7. He/she can order the food by using this application.
   
-  7. After doing all the stuffs, e-bill is generated.
+  8. After doing all the stuffs, e-bill is generated.
   
-  8. Simultaneously whatever the customer order's will automatically be shown in the CMD of Hotel Staff Computer.
+  9. Simultaneously whatever the customer order's will automatically be shown in the CMD of Hotel Staff Computer.
   
   
   
